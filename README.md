@@ -1,4 +1,4 @@
-In in voice assitance we can perform basic operation like
+In this voice assitance we can perform basic operation like
 - searching on wikipedia
 - open youtube
 - mathematics operations
